@@ -1,11 +1,11 @@
 FROM xataz/alpine:3.6
 
-ARG CERTBOT_VER=v0.14.2
+ARG CERTBOT_VER=v0.16.0
 
 LABEL description="Letsencrypt based on alpine" \
-      tags="latest 0.14.2 0.14" \
+      tags="latest 0.16.0 0.16" \
       maintainer="xataz <https://github.com/xataz>" \
-      build_ver="2017071001"
+      build_ver="2017071501"
 
 RUN BUILD_DEPS="py2-pip \
             gcc \
