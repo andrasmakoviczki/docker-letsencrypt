@@ -9,7 +9,7 @@
 > If you don't trust, you can build yourself.
 
 ## Tag available
-* latest, 0.17.0, 0.17 [(Dockerfile)](https://github.com/xataz/dockerfiles/tree/master/letsencrypt/Dockerfile)
+* latest, 0.19.0, 0.19 [(Dockerfile)](https://github.com/xataz/dockerfiles/tree/master/letsencrypt/Dockerfile)
 
 ## Description
 What is [letsencrypt](https://github.com/certbot/certbot) ?
